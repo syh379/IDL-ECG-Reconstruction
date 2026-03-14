@@ -15,10 +15,12 @@ The model and the processed data used for evaluation are in the `model.zip` file
 ## References
 
 ```bibtex
-@article{lence2024ecgrecover,
-  title={ECGrecover: a Deep Learning Approach for Electrocardiogram Signal Completion},
+@inproceedings{lence2025ecgrecover,
+  title={{ECGrecover}: A Deep Learning Approach for Electrocardiogram Signal Completion},
   author={Lence, Alex and Granese, Federica and Fall, Ahmad and Hanczar, Blaise and Salem, Joe-Elie and Zucker, Jean-Daniel and Prifti, Edi},
-  journal={arXiv preprint arXiv:2406.16901},
-  year={2024}
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year={2025},
+  organization={ACM},
+  note={arXiv preprint arXiv:2406.16901}
 }
 ```
